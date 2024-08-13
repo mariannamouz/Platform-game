@@ -1,0 +1,12 @@
+BBBBBBBBBBBBBBBBBBBBBBB
+N                    NN
+N    E                N
+N W                3 BN   
+NBB               BNNNN
+NBBBBB      2        BN
+N         BBBB        N
+N   1         BBB    BN
+N  BBB  E          4 BN
+N        BBBB      NNNN
+N 2                  NN                   
+NBBBBBBBBBBBBBBBBBBBBBN

@@ -1,0 +1,12 @@
+BBBBBBBBBBBBBBBBBBBBBBB
+N                     N
+N                     N
+N                     N   
+N    O                N
+N                     N
+N                     N
+N                     N
+N                     N
+N                     N
+N                     N
+BBBBBBBBBBBBBBBBBBBBBBB
